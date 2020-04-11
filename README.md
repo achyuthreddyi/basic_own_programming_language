@@ -1,2 +1,2 @@
 # basic_own_programming_language
-designing own programming language in python
+designing my own programming language in python
