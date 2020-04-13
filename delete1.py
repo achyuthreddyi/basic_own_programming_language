@@ -89,7 +89,6 @@ class Lexer:
 
     def make_tokens(self):
         tokens = []
-
         while self.current_char != None:
             if self.current_char in ' \t':
                 self.advance()
